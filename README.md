@@ -16,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regaipuluyol&show_icons=true&locale=en" alt="regaipuluyol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regaipuluyol&" alt="regaipuluyol" /></p>
+
+![snake gif](https://github.com/RegaipUluyolE/RegaipUluyol/blob/output/github-contribution-grid-snake.gif)
